@@ -457,7 +457,7 @@ body{
     color: #0071eb;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     body{
         background-color: black;
         font-family: 'Poppins';
